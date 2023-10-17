@@ -1,0 +1,6 @@
+_dump
+_envs
+
+node_modules
+
+.env
